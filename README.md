@@ -29,4 +29,9 @@ com o Liver Server ativo a alteração é vista dinamicamente.
 <img width="455" src="https://i.imgur.com/nRQ3rNV.png">
 </div>
 
-
+* Agora abra a pasta deste projeto no seu VS Code, e na parte inferior direita da tela, clique em **Go Live**
+<div align="center">
+<img width="455" src="https://i.imgur.com/1t92qBt.png">
+</div>
+</br>O seu navegador padrão vai abrir a página inicial do projeto,
+</br> é a mesma que aparece no começo deste documento.
